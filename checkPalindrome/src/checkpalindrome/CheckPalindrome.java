@@ -15,7 +15,7 @@ public class CheckPalindrome {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String str = "SOBHBOS";
+        String str = "SOBHBOS"; //SOBHANI theke example SOBHOS
         String rev = new StringBuilder(str).reverse().toString();
         if (str.equalsIgnoreCase(rev)) {
             System.out.println(str + " is a palindrome");
@@ -25,3 +25,4 @@ public class CheckPalindrome {
     }
 
 }
+
