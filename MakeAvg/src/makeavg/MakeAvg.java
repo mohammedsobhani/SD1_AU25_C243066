@@ -1,7 +1,9 @@
 package makeavg;
-
 import java.util.Scanner;
-
+/**
+ *
+ * @author mohammed Sobhani
+ */
 public class MakeAvg {
 
     public static void main(String[] args) {
